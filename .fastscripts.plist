@@ -1,0 +1,15 @@
+{
+    "ConfigurationFileVersion" = 1;
+    KeyboardShortcuts = (
+        {
+            RelativePath = "Insert Date.scpt";
+            Shortcut = "Command-Option-D";
+        },
+    );
+    KeyboardShortcuts = (
+        {
+            RelativePath = "Applications/Things/Complete Things task.scpt";
+            Shortcut = "Command-Shift-.";
+        },
+    );
+}
